@@ -1,0 +1,26 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Flutter / Dart
+software/**/build/
+software/**/.dart_tool/
+software/**/.flutter-plugins
+software/**/.flutter-plugins-dependencies
+software/**/.packages
+software/**/.pub-cache/
+software/**/.pub/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
